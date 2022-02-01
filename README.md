@@ -1,1 +1,1 @@
-# CS-GO-Prediction
+# CS-GO-ML-Classification
